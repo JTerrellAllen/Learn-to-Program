@@ -1,4 +1,4 @@
-# Write a program that will display a table of contents.
+# 6.2 Write a program that will display a table of contents.
 
 line_width = 65
 puts('Table of Contents'.center(line_width))
