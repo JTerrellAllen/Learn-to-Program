@@ -1,4 +1,8 @@
 # Learn to Program
-[*Learn to Program*](http://pine.fm/LearnToProgram/)
 
-My solutions to Chris Pine's Learn to Program (2nd ed.)
+My solutions to
+[*Learn to Program*](http://pine.fm/LearnToProgram/)
+by Chris Pine.
+
+Second edition.
+
