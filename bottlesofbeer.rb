@@ -1,4 +1,4 @@
-# Chp 7.  Write a program that prints out the lyrics to
+# 7.5 Write a program that prints out the lyrics to
 # 99 Bottles of Beer on the Wall.
 
 count_from = 5 
